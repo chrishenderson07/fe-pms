@@ -16,10 +16,26 @@ export function NavMenu() {
 				/>
 			</Link>
 			<ul className="flex gap-4 sm:gap-8">
-				<Link href="#sobre">Sobre</Link>
-				<Link href="#bme">BME</Link>
-				<Link href="#planejamento">Planejamento</Link>
-				<Link href="#mais">Mais</Link>
+				<Link
+					href="#sobre"
+					className="transition-all hover:-translate-y-2 hover:text-[#4FAE5C]">
+					Sobre
+				</Link>
+				<Link
+					href="#bme"
+					className="transition-all hover:-translate-y-2 hover:text-[#4FAE5C] ">
+					BME
+				</Link>
+				<Link
+					href="#planejamento"
+					className="transition-all hover:-translate-y-2 hover:text-[#4FAE5C]">
+					Planejamento
+				</Link>
+				<Link
+					href="#mais"
+					className="transition-all hover:-translate-y-2 hover:text-[#4FAE5C]">
+					Mais
+				</Link>
 			</ul>
 		</nav>
 	)
