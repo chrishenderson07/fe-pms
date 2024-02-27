@@ -6,7 +6,7 @@ export const TestimonialSection = () => {
 			<div className="flex flex-col sm:flex-row gap-4 w-11/12 md:w-10/12 mx-auto px-8 sm:px-4  ">
 				<div className="content flex-1">
 					<h3 className="text-[#EEEEEE] text-3xl font-bold text-center sm:text-left">
-						Comprove a nossa excelência com nossas avaliações.
+						Comprove a nossa excelência com nossos clientes.
 					</h3>
 				</div>
 				<div className="testimonial flex-1 ">

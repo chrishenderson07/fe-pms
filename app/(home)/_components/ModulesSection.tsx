@@ -77,7 +77,7 @@ export const ModulesSection = () => {
 						<GhostCard
 							className=" lg:absolute lg:-top-16 lg:-left-36 xl:-top-32 xl:-left-44"
 							imageSource={processo}
-							cardContent="No seu processo existem várias opções para operar?"
+							cardContent="No seu processo existem várias opções para operar? Com o PMS você pode simular qualquer opção facilmente"
 						/>
 						<GhostCard
 							className=" lg:absolute lg:-top-4 lg:right-0 xl:-top-24 xl:right-0"
